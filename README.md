@@ -22,3 +22,11 @@ docker-compose down
 # データごと削除
 docker-compose down --volumes
 ```
+
+## テーマのインストール
+参考元： https://kinsta.com/jp/blog/how-to-install-a-wordpress-theme/#install-free
+ダッシュボードから外観→テーマを開き、「新しいテーマを追加」
+今回は→のテーマをダウンロード：https://businesspress.jp/theme/
+Zip形式のままインストール可能。
+
+外観＞テーマ でBusinesspressを有効化
