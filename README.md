@@ -30,3 +30,8 @@ docker-compose down --volumes
 Zip形式のままインストール可能。
 
 外観＞テーマ でBusinesspressを有効化
+
+## 検証したいこと
+- shifterのようなSaaSを利用せずにHTML/CSS/JSに吐き出すことができるプラグイン等がないか
+    - staticpress2019 : やりたいことではなかった。サイトを高速化するために検索等を捨てる選択肢。（多分）
+- 簡易的なHPを楽に作れるか・無料テーマでそれなりのものがあるか調査
